@@ -1,0 +1,8 @@
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/install/strip.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/install/local.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/test.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/Demo.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/list_install_components.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/edit_cache.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/rebuild_cache.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo7/build/CMakeFiles/install.dir

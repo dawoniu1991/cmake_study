@@ -1,0 +1,3 @@
+/home/jiangfan/mywork/cmakeStudy/cmake-examples/01-basic/B-hello-headers/build/CMakeFiles/rebuild_cache.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-examples/01-basic/B-hello-headers/build/CMakeFiles/hello_headers.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-examples/01-basic/B-hello-headers/build/CMakeFiles/edit_cache.dir

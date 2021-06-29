@@ -1,0 +1,3 @@
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo2/build/CMakeFiles/rebuild_cache.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo2/build/CMakeFiles/Demo.dir
+/home/jiangfan/mywork/cmakeStudy/cmake-demo/Demo2/build/CMakeFiles/edit_cache.dir
